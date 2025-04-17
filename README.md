@@ -11,7 +11,7 @@ Lecturer: Gwangyu Lee
 ### GrandMA3 Version
 2.2.5
 
-### Show Path
+### Show file Path
 `/Users/ USERNAME /MALightingTechnology/gma3_2.2.5/shared/shows`
 
 ### Original show file
