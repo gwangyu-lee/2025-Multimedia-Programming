@@ -9,7 +9,7 @@ Lecturer: Gwangyu Lee
 [ERA 600](https://www.martin.com/en/products/era-600-profile)
 
 ### Show Path
-`/Users/ USERNAME /MALightingTechnology/gma3_2.2.5/shared/backups`
+`/Users/ USERNAME /MALightingTechnology/gma3_2.2.5/shared/shows`
 
 ## Books
 Roger T. Dean, *The Oxford Handbook of Computer Music*, 2009    
