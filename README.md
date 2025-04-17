@@ -14,5 +14,8 @@ Lecturer: Gwangyu Lee
 ### Show Path
 `/Users/ USERNAME /MALightingTechnology/gma3_2.2.5/shared/shows`
 
+### Original show file
+[ACT GrandMA3 Programming Contest](https://academy.actentertainment.com/grandma3-programming-contest)
+
 ## Books
 Roger T. Dean, *The Oxford Handbook of Computer Music*, 2009    
