@@ -18,7 +18,7 @@ Lecturer: Gwangyu Lee
 [ACT Academy GrandMA3 Programming Contest](https://academy.actentertainment.com/grandma3-programming-contest)
 
 ## Assets
-[AmbientCG](https://ambientcg.com)
+[AmbientCG](https://ambientcg.com)    
 [Poly Haven](https://polyhaven.com)
 
 ## Books
