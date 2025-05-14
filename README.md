@@ -17,5 +17,10 @@ Lecturer: Gwangyu Lee
 ### Original show file
 [ACT Academy GrandMA3 Programming Contest](https://academy.actentertainment.com/grandma3-programming-contest)
 
+## Assets
+[AmbientCG](https://ambientcg.com)
+[Poly Haven](https://polyhaven.com)
+
 ## Books
 Roger T. Dean, *The Oxford Handbook of Computer Music*, 2009    
+Don Norman, *The Design of Everyday Things*, 2013
