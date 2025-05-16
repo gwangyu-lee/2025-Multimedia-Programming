@@ -9,7 +9,7 @@ Lecturer: Gwangyu Lee
 [ERA 600](https://www.martin.com/en/products/era-600-profile)
 
 ### GrandMA3 Version
-2.2.5
+`2.2.5`
 
 ### Show file Path
 `/Users/ USERNAME /MALightingTechnology/gma3_2.2.5/shared/shows`
