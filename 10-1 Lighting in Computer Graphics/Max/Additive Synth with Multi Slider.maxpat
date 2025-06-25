@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 100.0, 960.0, 983.0 ],
+		"rect" : [ 134.0, 178.0, 960.0, 983.0 ],
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -1889,6 +1889,7 @@
 				"box" : 				{
 					"id" : "obj-5",
 					"maxclass" : "kslider",
+					"mode" : 2,
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "int", "int" ],
@@ -3801,7 +3802,7 @@
 
 			}
  ],
-		"originid" : "pat-70",
+		"originid" : "pat-790",
 		"parameters" : 		{
 			"obj-46" : [ "Mater Amp", "Mater Amp", 0 ],
 			"parameterbanks" : 			{
@@ -3818,7 +3819,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "additiveOscillator.maxpat",
-				"bootpath" : "~/Desktop/Teaching/2025-1 Dongguk - Multimedia Programming/TD/Additive",
+				"bootpath" : "~/Working/Github/2025-Multimedia-Programming/10-1 Lighting in Computer Graphics",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
